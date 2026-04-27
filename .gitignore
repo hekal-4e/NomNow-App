@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+specs/
+docs/
+.specify/
+AGENTS.md
+.agents
+constitution.md
+nomnow_food_delivery_ui/
+.idea/
+.vscode/
+.github/
